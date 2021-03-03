@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a1a7a17-3cbe-4ee0-bd9d-508572f89af3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.3\local_repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1osYwOewp481UX9JqUGN43lgHZg" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JAVA\javastudy\Astar\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AstarTest.search">
+    <configuration name="AstarTest.search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Astar" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AstarTest" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTest.Map" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Astar" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MapTest" />
+      <option name="METHOD_NAME" value="Map" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTest.showMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Astar" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MapTest" />
+      <option name="METHOD_NAME" value="showMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YardTest.loadYardFromFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Astar" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="YardTest" />
+      <option name="METHOD_NAME" value="loadYardFromFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AstarTest.search" />
+        <item itemvalue="JUnit.YardTest.loadYardFromFile" />
+        <item itemvalue="JUnit.MapTest.showMap" />
+        <item itemvalue="JUnit.MapTest.Map" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a1a7a17-3cbe-4ee0-bd9d-508572f89af3" name="Default Changelist" comment="" />
+      <created>1614077002205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614077002205</updated>
+      <workItem from="1614077007797" duration="12582000" />
+      <workItem from="1614137033838" duration="8904000" />
+      <workItem from="1614148923848" duration="18081000" />
+      <workItem from="1614228361547" duration="19075000" />
+      <workItem from="1614606819659" duration="1209000" />
+      <workItem from="1614760102021" duration="1484000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#Project_Structure" timestamp="1614151508605">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1614151508605" />
+    <state x="958" y="151" key="#com.intellij.ide.util.MemberChooser" timestamp="1614251660418">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="958" y="151" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1614251660418" />
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1614608044258">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1614608044258" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1614608044258">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1614608044258" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1614608044258">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1614608044258" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1614608044258">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1614608044258" />
+    <state width="1493" height="151" key="GridCell.Tab.1.bottom" timestamp="1614259740346">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="151" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1614259740346" />
+    <state width="1493" height="151" key="GridCell.Tab.1.center" timestamp="1614259740346">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="151" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1614259740346" />
+    <state width="1493" height="151" key="GridCell.Tab.1.left" timestamp="1614259740345">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="151" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1614259740345" />
+    <state width="1493" height="151" key="GridCell.Tab.1.right" timestamp="1614259740346">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="151" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1614259740346" />
+    <state x="212" y="114" key="Maven.ArtifactSearchDialog" timestamp="1614150973523">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="212" y="114" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1614150973523" />
+    <state x="60" y="141" key="SettingsEditor" timestamp="1614151257515">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="60" y="141" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1614151257515" />
+    <state x="924" y="138" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1614151484481">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="924" y="138" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1614151484481" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1614156103707">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1614156103707" />
+  </component>
+</project>
